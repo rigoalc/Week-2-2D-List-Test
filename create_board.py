@@ -4,7 +4,7 @@ def create_board(board):
     board[0][0] = 'X'
     board[1][0] = 'O'
     board[2][0] = 'X'
-    # TODO: do what problem asks
+    
     return board
     
 
