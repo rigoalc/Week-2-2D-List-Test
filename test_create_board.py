@@ -1,3 +1,5 @@
+from create_board import create_board
+from create_board import EXPECTED
 def test_create_board():
     board = [
         ['*', '*', '*'],
